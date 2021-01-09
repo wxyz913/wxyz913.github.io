@@ -1,6 +1,8 @@
 ---
 title:  "先備知識"
+mathjax: true
 layout: post
+categories: media
 ---
 
 ## 有向角
