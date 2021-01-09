@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Basic Conic Theory"
 layout: post
 ---
 
