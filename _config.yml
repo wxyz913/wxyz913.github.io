@@ -22,7 +22,7 @@ navigation:
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
-  - {title: Conic, icon: file, url: "https://lii4.github.io/Conic.pdf"}
+  - {title: PDF, icon: file, url: "https://lii4.github.io/Conic.pdf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
