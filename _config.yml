@@ -19,10 +19,10 @@ mathjax: true
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
-  - {file: "Conic.pdf"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
+  - {title: Download, url: "https://lii4.github.io/Conic.pdf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
