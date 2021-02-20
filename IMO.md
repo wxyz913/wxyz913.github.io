@@ -1,6 +1,6 @@
 ---
 title: "Olympiad"
-permalink: "/about/"
+permalink: "/IMO/"
 layout: page
 ---
 
