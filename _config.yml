@@ -19,8 +19,8 @@ mathjax: true
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
-  - {file: "IMO.md", icon: snowflake-o}
-  - {file: "Study.md", icon: snowflake-o}
+  - {file: "IMO.md", icon: plus}
+  - {file: "Study.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
