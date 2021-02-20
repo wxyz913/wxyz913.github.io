@@ -1,5 +1,5 @@
 ---
-title: "Olympiad"
+title: "IMO"
 permalink: "/IMO/"
 layout: page
 ---
