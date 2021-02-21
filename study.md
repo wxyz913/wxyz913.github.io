@@ -1,5 +1,5 @@
 ---
-title: "Study"
+title: "Empty"
 permalink: "/study/"
 layout: page
 ---
