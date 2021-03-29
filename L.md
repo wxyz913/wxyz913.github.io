@@ -1,6 +1,6 @@
 ---
-title: "Li4"
-permalink: "/Li4/"
+title: "L"
+permalink: "/L/"
 layout: page
 ---
 
