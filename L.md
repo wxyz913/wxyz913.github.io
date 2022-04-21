@@ -10,6 +10,9 @@ layout: page
 
 [Etale Cohomology][EC]
 
+[Plane Geometry][PG]
+
 
 [Matsumura]: /Matsumura.pdf
 [EC]: /Etale_Cohomology.pdf
+[PG]: /Plane_Geometry.pdf
