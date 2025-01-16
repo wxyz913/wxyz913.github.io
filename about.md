@@ -10,5 +10,9 @@ My name is Shuang-Yen Lee, and I am currently a Ph.D. student in the Department 
 
 <!-- ![image](/images/Li4black.png) -->
 
+## Contact information
+
+Email: d10221004(at)ntu.edu.tw
+Astronomy-Mathematics Building Room 423, National Taiwan University, No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan
 
 [CV]: /CV.pdf
