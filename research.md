@@ -6,7 +6,7 @@ layout: page
 
 ## Preprints
 
-1. [Global Igusa zeta function and $K$-equivalence][GIZK]. 
+[Global Igusa zeta function and $K$-equivalence][GIZK]. 
 
 ## Bachelor thesis 
 
