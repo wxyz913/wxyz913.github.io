@@ -7,8 +7,11 @@ layout: page
 ## Some notes
 
 [Calabi Conjecture][CC]
+
 [Derived Category][DC] 
+
 [Étale Cohomology and Weil Conjecture][EC]
+
 [Minimal Model Program][MMP]
 
 [CC]: /Calabi_conjecture.pdf
