@@ -1,5 +1,5 @@
-title: "平面幾何"
-author: "Li4"
+title: "Personal Page"
+author: "Shuang-Yen Lee"
 description: "" #"Made with :)" #<b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_social: true          # show site description and social links in the footer
-show_excerpts: false       # show article excerpts on the home page
+show_excerpts: true       # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 mathjax: true
@@ -23,7 +23,7 @@ navigation:
   - {file: "study.md", icon: plus}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:chjh21005@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:d10221004@ntu.edu.tw"}
   #- {title: PDF, icon: file, url: "/Conic.pdf"}
   #- {title: Wiki, icon: file, url: "/Geometry_Lemma_Wiki.pdf"}
 
